@@ -67,9 +67,7 @@ Without this understanding, the business cannot optimize pricing, discounting, o
 - **Total Profit:** ₹3,747,121  
 - **Profit Margin:** 25.05%  
 - **Total Orders:** 9,994  
-- **Unique Customers:** 50  
-
-![Dashboard](./dashboard/Supermart Grocery Sales - Dashboard_Image.jpg)
+- **Unique Customers:** 50
 
 **Category Insights:**  
 - Snacks, Bakery, and Beverages drive strong sales.  
