@@ -8,13 +8,14 @@ End-to-end retail analytics project using Python: EDA, visualizations, KPIs, tim
 Using Python, SQL, and data visualization techniques, I analyzed a grocery delivery dataset to uncover sales patterns, customer behavior, and profitability trends for a fictional supermarket in Tamil Nadu, India.
 
 **The goal was to understand:**
-Which customers and categories drive most revenue
 
-How discounting affects profit
+- Which customers and categories drive most revenue
 
-How monthly sales behave over time
+- How discounting affects profit
 
-Whether profit can be predicted using machine learning
+- How monthly sales behave over time
+
+- Whether profit can be predicted using machine learning
 
 After completing the end-to-end analysis and modeling, several strategic insights emerged, pointing to opportunities to improve customer targeting and revenue planning.
 
@@ -24,13 +25,14 @@ After completing the end-to-end analysis and modeling, several strategic insight
 Grocery platforms rely heavily on repeat customers and consistent monthly demand.
 
 **However, the business lacked clarity on:**
-Which customers contribute the most to total revenue
 
-How category-wise performance changes month to month
+- Which customers contribute the most to total revenue
 
-Whether discounts are actually improving profitability
+- How category-wise performance changes month to month
 
-If profit can be predicted accurately using ML models
+- Whether discounts are actually improving profitability
+
+- If profit can be predicted accurately using ML models
 
 Without this understanding, the business cannot optimize pricing, discounting, or customer retention strategy.
 
@@ -47,10 +49,15 @@ Without this understanding, the business cannot optimize pricing, discounting, o
 
 ## Skills Demonstrated
 **Python:** pandas, numpy, matplotlib, seaborn, scikit-learn
+
 **Data Analysis:** EDA, KPI creation, data cleaning, feature engineering
+
 **Visualization:** trend charts, bar charts, heatmaps, Pareto analysis
+
 **ML Basics:** regression models, model evaluation, error analysis
+
 **Power BI:** dashboarding, DAX fundamentals, data modeling 
+
 **SQL:** Joins, filters, grouping, aggregations
 
 ---
