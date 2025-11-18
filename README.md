@@ -9,8 +9,11 @@ Using Python, SQL, and data visualization techniques, I analyzed a grocery deliv
 
 **The goal was to understand:**
 Which customers and categories drive most revenue
+
 How discounting affects profit
+
 How monthly sales behave over time
+
 Whether profit can be predicted using machine learning
 
 After completing the end-to-end analysis and modeling, several strategic insights emerged, pointing to opportunities to improve customer targeting and revenue planning.
@@ -22,8 +25,11 @@ Grocery platforms rely heavily on repeat customers and consistent monthly demand
 
 **However, the business lacked clarity on:**
 Which customers contribute the most to total revenue
+
 How category-wise performance changes month to month
+
 Whether discounts are actually improving profitability
+
 If profit can be predicted accurately using ML models
 
 Without this understanding, the business cannot optimize pricing, discounting, or customer retention strategy.
