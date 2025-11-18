@@ -5,16 +5,28 @@ End-to-end retail analytics project using Python: EDA, visualizations, KPIs, tim
 # Supermart Grocery Sales Analysis
 
 ## Executive Summary
-Using Python, Power BI, and SQL, I analyzed 10,000+ grocery orders to understand revenue drivers, customer behavior, category performance, and profit trends for Supermart (Tamil Nadu–based fictional grocery app).
+Using Python, SQL, and data visualization techniques, I analyzed a grocery delivery dataset to uncover sales patterns, customer behavior, and profitability trends for a fictional supermarket in Tamil Nadu, India.
 
-The analysis shows which product categories generate the highest profit, how discounts affect margins, which customers drive the most revenue, and why profit-prediction models struggle to perform. These insights support better decisions around pricing, inventory planning, and customer retention.
+**The goal was to understand:**
+Which customers and categories drive most revenue
+How discounting affects profit
+How monthly sales behave over time
+Whether profit can be predicted using machine learning
+
+After completing the end-to-end analysis and modeling, several strategic insights emerged, pointing to opportunities to improve customer targeting and revenue planning.
 
 ---
 
 ## Business Problem
-Supermart wants to understand why certain categories and cities perform better, how discounts impact profits, which customers contribute the most revenue, and whether profit can be predicted reliably from sales data.
+Grocery platforms rely heavily on repeat customers and consistent monthly demand.
 
-The goal is to build a clear analytical view that helps improve revenue, optimize product performance, and guide data-driven business strategy.
+**However, the business lacked clarity on:**
+Which customers contribute the most to total revenue
+How category-wise performance changes month to month
+Whether discounts are actually improving profitability
+If profit can be predicted accurately using ML models
+
+Without this understanding, the business cannot optimize pricing, discounting, or customer retention strategy.
 
 ---
 
@@ -28,10 +40,12 @@ The goal is to build a clear analytical view that helps improve revenue, optimiz
 ---
 
 ## Skills Demonstrated
-**Python:** Data cleaning, EDA, visualizations, KPIs, time-series trends, machine learning  
-**Power BI:** Interactive dashboards, DAX, data modeling  
-**SQL:** Joins, filters, grouping, aggregations  
-**Data Analytics:** Business KPI design, trend analysis, category insights  
+**Python:** pandas, numpy, matplotlib, seaborn, scikit-learn
+**Data Analysis:** EDA, KPI creation, data cleaning, feature engineering
+**Visualization:** trend charts, bar charts, heatmaps, Pareto analysis
+**ML Basics:** regression models, model evaluation, error analysis
+**Power BI:** dashboarding, DAX fundamentals, data modeling 
+**SQL:** Joins, filters, grouping, aggregations
 
 ---
 
