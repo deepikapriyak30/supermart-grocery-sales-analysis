@@ -69,7 +69,7 @@ Without this understanding, the business cannot optimize pricing, discounting, o
 - **Total Orders:** 9,994  
 - **Unique Customers:** 50  
 
-![Total Sales by Category](./data/sales_by_category.png)
+![Dashboard](./dashboard/Supermart Grocery Sales - Dashboard_Image.jpg)
 
 **Category Insights:**  
 - Snacks, Bakery, and Beverages drive strong sales.  
