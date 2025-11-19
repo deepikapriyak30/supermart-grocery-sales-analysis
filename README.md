@@ -101,10 +101,13 @@ Both models underperformed, suggesting profit depends on variables not present i
 ---
 
 ## Business Recommendations
-1. Focus on top-performing cities like **Kanyakumari, Vellore, Bodi** to improve targeted marketing.  
-2. Increase inventory depth and promotion planning for **high-margin categories** (Eggs, Meat & Fish).  
-3. Use customer segmentation to engage the top 20 customers contributing major revenue.  
-4. Revisit discount strategy since it does not strongly influence profit.
+1. Strengthen targeted marketing efforts in **Kanyakumari, Vellore, and Bodi**, as these cities consistently deliver the highest revenue and profit.
+
+2. Expand inventory depth and run strategic promotions for **high-margin categories** such as Eggs, Meat & Fish to maximize profitability.
+
+3. Apply customer segmentation to prioritize and retain the **top 20 high-value customers** contributing a major share of revenue.
+
+4. Reevaluate the discounting strategy since discounts **show minimal impact on profitability**, suggesting that aggressive discounting is not necessary.
 
 ---
 
