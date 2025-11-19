@@ -23,6 +23,7 @@ The project delivered several actionable insights that can support targeted mark
 
 ## Business Problem
 Grocery businesses depend heavily on repeat customers and stable monthly demand.
+
 However, the supermarket lacked clear visibility into several key performance areas:
 
 - Which customers and product categories generate the highest revenue
