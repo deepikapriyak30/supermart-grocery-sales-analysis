@@ -70,8 +70,9 @@ Without this understanding, the business cannot optimize pricing, discounting, o
 - **Unique Customers:** 50
 
 ## 📊 Sales by Category
-
+<p align="centre">
 <img src="https://github.com/deepikapriyak30/supermart-grocery-sales-analysis/blob/main/images/sales_by_category.jpg?raw=true" width="650">
+</p>
 
 **Category Insights:**  
 - Snacks, Bakery, and Beverages drive strong sales.  
