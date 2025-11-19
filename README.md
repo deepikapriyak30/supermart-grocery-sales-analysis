@@ -39,11 +39,15 @@ Without answers to these questions, the business struggled to optimize pricing, 
 ---
 
 ## Methodology
-1. Cleaned and explored the dataset using Python (Pandas, NumPy, Matplotlib, Seaborn).
-2. Built visualizations and KPIs to understand sales, profit patterns, customer behavior, and monthly trends.
-3. Created a Power BI dashboard for interactive reporting.
-4. Built machine learning models (Linear Regression, Random Forest) to test if profit can be predicted.
-5. SQL queries will be added for data extraction and transformation.
+1. **Cleaned and prepared the dataset** using Python (Pandas, NumPy) by fixing data types, removing inconsistencies, and creating new calculated fields (profit margin, discount %, month/year features).
+
+2. **Performed exploratory data analysis (EDA)** and built visualizations to understand sales trends, profit patterns, category performance, customer behavior, and seasonal effects using Matplotlib and Seaborn.
+
+3. **Designed an interactive Power BI dashboard** to summarize key KPIs such as total sales, profit, monthly trends, top customers, and category insights.
+
+4. **Developed machine learning models** (Linear Regression, Random Forest) to test whether profit can be predicted using available features.
+
+5. **Wrote SQL queries** for data extraction, validation, aggregation, and deeper analysis (sales by category, regional performance, monthly trends, top customers, etc.).
 
 ---
 
