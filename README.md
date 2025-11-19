@@ -10,11 +10,8 @@ Using Python, SQL, and data visualization techniques, I analyzed a grocery deliv
 The analysis focused on understanding:
 
 - Which customers and categories contribute the most revenue
-
 - How discounts influence profit margins
-
 - How sales and profit change over time
-
 - Whether profit can be predicted using machine learning models
 
 The project delivered several actionable insights that can support targeted marketing, pricing optimization, and strategic revenue planning.
@@ -27,11 +24,8 @@ Grocery businesses depend heavily on repeat customers and stable monthly demand.
 However, the supermarket lacked clear visibility into several key performance areas:
 
 - Which customers and product categories generate the highest revenue
-
 - How sales and profit trends change month-to-month
-
 - Whether discounts are actually improving profitability or hurting margins
-
 - If profit can be predicted reliably using machine learning models
 
 Without answers to these questions, the business struggled to optimize pricing, discounting strategies, customer targeting, and inventory planning.
@@ -40,13 +34,9 @@ Without answers to these questions, the business struggled to optimize pricing, 
 
 ## Methodology
 1. **Cleaned and prepared the dataset** using Python (Pandas, NumPy) by fixing data types, removing inconsistencies, and creating new calculated fields (profit margin, discount %, month/year features).
-
 2. **Performed exploratory data analysis (EDA)** and built visualizations to understand sales trends, profit patterns, category performance, customer behavior, and seasonal effects using Matplotlib and Seaborn.
-
 3. **Designed an interactive Power BI dashboard** to summarize key KPIs such as total sales, profit, monthly trends, top customers, and category insights.
-
 4. **Developed machine learning models** (Linear Regression, Random Forest) to test whether profit can be predicted using available features.
-
 5. **Wrote SQL queries** for data extraction, validation, aggregation, and deeper analysis (sales by category, regional performance, monthly trends, top customers, etc.).
 
 ---
@@ -102,11 +92,8 @@ Both models underperformed, suggesting profit depends on variables not present i
 
 ## Business Recommendations
 1. Strengthen targeted marketing efforts in **Kanyakumari, Vellore, and Bodi**, as these cities consistently deliver the highest revenue and profit.
-
 2. Expand inventory depth and run strategic promotions for **high-margin categories** such as Eggs, Meat & Fish to maximize profitability.
-
 3. Apply customer segmentation to prioritize and retain the **top 20 high-value customers** contributing a major share of revenue.
-
 4. Reevaluate the discounting strategy since discounts **show minimal impact on profitability**, suggesting that aggressive discounting is not necessary.
 
 ---
