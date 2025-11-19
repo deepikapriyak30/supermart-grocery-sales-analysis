@@ -43,10 +43,15 @@ Without answers to these questions, the business struggled to optimize pricing, 
 
 ## Skills Demonstrated
 **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 **Data Analysis:** EDA, KPI creation, data cleaning, feature engineering
+
 **Visualization (Python):** Bar charts, line charts, scatter plots, heatmaps, Pareto charts
+
 **Power BI:** Dashboard design, interactive visuals, slicers, filters
+
 **Machine Learning:** Linear Regression, Random Forest, model evaluation
+
 **SQL:** Joins, grouping, filtering, aggregations, analytical queries
 
 ---
@@ -94,9 +99,10 @@ Both models underperformed, suggesting profit depends on variables not present i
 ---
 
 ## Next Steps
-1. Add SQL pipeline for data extraction.  
-2. Add Profit Forecasting Dashboard in Power BI.  
-3. Expand dataset with operational cost details to improve ML model accuracy.
+1. Add more SQL queries for deeper insights (customer segmentation, category trends, discount impact).
+2. Improve Power BI visuals and create additional KPI pages for deeper reporting.
+3. To improve profit prediction, collect more detailed features such as cost price, supplier data, category sourcing cost, delivery charges, and operational expenses.
+4. Experiment with more ML models and feature engineering once additional columns are available.
 
 ---
 
