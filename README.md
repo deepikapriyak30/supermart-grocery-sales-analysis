@@ -106,3 +106,9 @@ Both models underperformed, suggesting profit depends on variables not present i
 
 ---
 
+## Dataset Source
+This project uses a fictional dataset created for learning and practice purposes.
+Dataset Credits: Original dataset published on Kaggle by its creator.
+I do not own the dataset. All rights remain with the original author.
+
+---
