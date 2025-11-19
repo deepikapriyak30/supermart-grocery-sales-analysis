@@ -79,24 +79,24 @@ Without answers to these questions, the business struggled to optimize pricing, 
 </p>
 
 **Category Insights:**  
-- Eggs, Meat & Fish, Snacks, and Food Grains drive the highest sales.
-- Eggs, Meat & Fish deliver the highest profit margins. 
-- Discounts do not show a strong relationship with sales or profit in this dataset, suggesting they have limited impact on profitability.
+- Eggs, Meat & Fish, Snacks, and Food Grains generate the highest sales.
+- Eggs, Meat & Fish consistently deliver the strongest profit margins.
+- Discounts do not show a strong relationship with sales or profit, indicating limited impact on profitability.
 
 **City Insights:**  
-- Kanyakumari leads sales and profit, followed by Vellore and Bodi.  
+- Kanyakumari leads both sales and profit, followed by Vellore and Bodi. 
 
 **Monthly Trends:**  
-- Clear upward trend from mid-2017 to 2019.  
-- Peak months: September–December.
+- Clear upward trend in sales from mid-2017 to 2019.
+- Peak sales months: **September–December**.
 
 **Machine Learning Results:**  
-Profit is difficult to predict using available features.
+Predicting profit is challenging with the available features.
 
-- **Linear Regression:** R² = 0.305  
-- **Random Forest:** R² = 0.206  
+- **Linear Regression:** R² = 0.305
+- **Random Forest:** R² = 0.206
 
-Both models underperform, showing profit depends on hidden variables not present in the dataset (cost structure, category sourcing cost, seasonality, etc.).
+Both models underperformed, suggesting profit depends on variables not present in the dataset (cost structure, sourcing cost, seasonality, etc.).
 
 ---
 
