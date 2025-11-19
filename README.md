@@ -71,7 +71,7 @@ Without this understanding, the business cannot optimize pricing, discounting, o
 
 ## 📊 Sales by Category
 
-![Sales by Category](https://github.com/deepikapriyak30/supermart-grocery-sales-analysis/blob/main/images/Sales_by_category.jpg?raw=true)
+![Sales by Category](https://github.com/deepikapriyak30/supermart-grocery-sales-analysis/blob/main/images/sales_by_category.jpg?raw=true)
 
 
 **Category Insights:**  
