@@ -5,19 +5,19 @@ End-to-end retail analytics project using Python: EDA, visualizations, KPIs, tim
 # Supermart Grocery Sales Analysis
 
 ## Executive Summary
-Using Python, SQL, and data visualization techniques, I analyzed a grocery delivery dataset to uncover sales patterns, customer behavior, and profitability trends for a fictional supermarket in Tamil Nadu, India.
+Using Python, SQL, and data visualization techniques, I analyzed a grocery delivery dataset to uncover sales behavior, customer patterns, and profitability drivers for a fictional supermarket in Tamil Nadu, India.
 
-**The goal was to understand:**
+**The analysis focused on understanding:**
 
-- Which customers and categories drive most revenue
+- Which customers and categories contribute the most revenue
 
-- How discounting affects profit
+- How discounts influence profit margins
 
-- How monthly sales behave over time
+- How sales and profit change over time
 
-- Whether profit can be predicted using machine learning
+- Whether profit can be predicted using machine learning models
 
-After completing the end-to-end analysis and modeling, several strategic insights emerged, pointing to opportunities to improve customer targeting and revenue planning.
+The project delivered several actionable insights that can support targeted marketing, pricing optimization, and strategic revenue planning.
 
 ---
 
