@@ -43,15 +43,10 @@ Without answers to these questions, the business struggled to optimize pricing, 
 
 ## Skills Demonstrated
 **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
 **Data Analysis:** EDA, KPI creation, data cleaning, feature engineering
-
 **Visualization (Python):** Bar charts, line charts, scatter plots, heatmaps, Pareto charts
-
 **Power BI:** Dashboard design, interactive visuals, slicers, filters
-
 **Machine Learning:** Linear Regression, Random Forest, model evaluation
-
 **SQL:** Joins, grouping, filtering, aggregations, analytical queries
 
 ---
