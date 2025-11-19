@@ -79,9 +79,9 @@ Without answers to these questions, the business struggled to optimize pricing, 
 </p>
 
 **Category Insights:**  
-- Snacks, Bakery, and Beverages drive strong sales.  
-- Eggs, Meat & Fish have the highest profit margins.  
-- Discounts remain consistent across categories and do not strongly change profit patterns.
+- Eggs, Meat & Fish, Snacks, and Food Grains drive the highest sales.
+- Eggs, Meat & Fish deliver the highest profit margins. 
+- Discounts do not show a strong relationship with sales or profit in this dataset, suggesting they have limited impact on profitability.
 
 **City Insights:**  
 - Kanyakumari leads sales and profit, followed by Vellore and Bodi.  
